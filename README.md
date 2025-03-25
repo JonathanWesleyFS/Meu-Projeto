@@ -2,7 +2,7 @@
 ##### Exercico de Informatica para aprendizado do Github 
 https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=de90d9c4-97ae-44b0-ae5c-b23a43ed662e
 
-![Imagens](https://cpv.ifsp.edu.br/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png)]
+![Imagens](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbO_yrTja6_3eDll5SZtoYaZOWTJSYe0zHWTmqGnKA6pFC-RjQ5ZrKXk4&s=10)
 
 
 25 DE MARÇO | BASE BÍBLICA:
