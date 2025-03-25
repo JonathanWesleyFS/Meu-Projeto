@@ -2,6 +2,8 @@
 ##### Exercico de Informatica para aprendizado do Github 
 https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=de90d9c4-97ae-44b0-ae5c-b23a43ed662e
 
+[![https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=4566481c-3b50-4cb5-bed7-8bdb7fbfecaf#immersive-view_1742902355712]]
+
 25 DE MARÇO | BASE BÍBLICA:
 ------------|--------------
 Mt 13.47-50 |  4.18-22
