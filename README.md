@@ -3,9 +3,9 @@
 https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=de90d9c4-97ae-44b0-ae5c-b23a43ed662e
 
 25 DE MARÇO | BASE BÍBLICA:
----------------------------
-Mt 13.47-50;|  4.18-22; 
-Lc 5.10-11; |  Gn 7.2|
+------------|--------------
+Mt 13.47-50 |  4.18-22
+Lc 5.10-11  |  Gn 7.2
 
 
 _“— O Reino dos Céus é ainda semelhante a uma rede que foi lançada ao mar e apanhou peixes de toda espécie.” Mateus 13.47_
@@ -21,4 +21,4 @@ José Humberto Oliveira
 ##### Oração
 Senhor Jesus, reveste-me da Tua graça, do Teu amor e do Teu poder para ser pescador de homens. Amém! 
 
-LEIA A BÍBLIA EM UM ANO: ☐ Dt 13-14 ☐ Sl 53 ☐ Jo 17
+LEIA A BÍBLIA EM UM ANO: - [] Dt 13-14 [] Sl 53 [] Jo 17
