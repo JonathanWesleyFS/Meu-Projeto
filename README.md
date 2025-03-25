@@ -27,3 +27,5 @@ LEIA A BÍBLIA EM UM ANO:
 - [ ] Dt 13-14 
 - [x] Sl 53  
 - [ ] Jo 17
+
+![hahaha](https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=4566481c-3b50-4cb5-bed7-8bdb7fbfecaf#immersive-view_1742902355712)
