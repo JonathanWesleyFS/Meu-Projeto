@@ -21,4 +21,4 @@ José Humberto Oliveira
 ##### Oração
 Senhor Jesus, reveste-me da Tua graça, do Teu amor e do Teu poder para ser pescador de homens. Amém! 
 
-LEIA A BÍBLIA EM UM ANO: - [ ]Dt 13-14  [x]Sl 53  [ ]Jo 17
+LEIA A BÍBLIA EM UM ANO: - [ ] Dt 13-14  [x] Sl 53  [ ] Jo 17
