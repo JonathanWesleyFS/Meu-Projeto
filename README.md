@@ -2,8 +2,7 @@
 ##### Exercico de Informatica para aprendizado do Github 
 https://www.amazon.com.br/Devocion%C3%A1rio-Crist%C3%A3o-Evang%C3%A9lico-Mais-Doce-ebook/dp/B09NC82MKZ?dplnkId=de90d9c4-97ae-44b0-ae5c-b23a43ed662e
 
-![Pescadores de Homens]
-(https://images.app.goo.gl/jyJ8)
+[![Pescadores de Homens](https://images.app.goo.gl/jyJ8)]
 
 25 DE MARÇO | BASE BÍBLICA:
 ------------|--------------
