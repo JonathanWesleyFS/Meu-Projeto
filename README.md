@@ -3,7 +3,7 @@
 
 
 |25 DE MARÇO • BASE BÍBLICA:|
- Mt 13.47-50; 4.18-22; Lc 5.10-11; Gn 7.2|
+|Mt 13.47-50; 4.18-22; Lc 5.10-11; Gn 7.2|
 
 
 _“— O Reino dos Céus é ainda semelhante a uma rede que foi lançada ao mar e apanhou peixes de toda espécie.” Mateus 13.47_
